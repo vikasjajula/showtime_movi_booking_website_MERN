@@ -47,6 +47,7 @@ const artistSchema = new mongoose.Schema({
 //   bookedSeats: {
 //     type: Array,
 //     required: true,
+//sldfkj
 //   },
 
 
